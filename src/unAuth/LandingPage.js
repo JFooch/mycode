@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import PlaylistCTA from "./components/PlaylistCTA";
 
 
+//hey this is cool!
 const LandingPage = () => {
 
 
